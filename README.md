@@ -5,4 +5,4 @@ B. 程式碼：Data exploration.ipynb（簡單數據分析）、Dummy SMOTE RFE.
 
 C. 書面報告：國泰大數據.pdf
 
-D. 變數解釋：
+D. 變數解釋：layout.pdf
