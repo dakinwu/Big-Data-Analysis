@@ -7,4 +7,4 @@ C. 書面報告：國泰大數據.pdf
 
 D. 變數解釋：layout.pdf
 
-E. 預處理後的資料集：train_data.zip、test_data.zip
+E. 預處理後的資料集：train_data.zip、test_data.zip（map()、fillna()、Label Encoder等加工）
